@@ -9,9 +9,11 @@
 
     <StackPanel>
         <TextBlock>Enter Name:</TextBlock>
-        <TextBox x:Name="uxName"  TextChanged="uxName_TextChanged"></TextBox>
+        <TextBox x:Name="uxName"  TextChanged="uxName_TextChanged" Height="30" Background="LightBlue"></TextBox>
         <TextBlock>Enter Password:</TextBlock>
-        <TextBox x:Name="uxPassword" Text="{Binding OriginalText, UpdateSourceTrigger=PropertyChanged}" TextChanged="uxPassword_TextChanged"></TextBox>
+        <TextBox x:Name="uxPassword" 
+                 Text="{Binding OriginalText, UpdateSourceTrigger=PropertyChanged}" 
+                 TextChanged="uxPassword_TextChanged" Height="30" Background="LightBlue"></TextBox>
         <Button x:Name="uxSubmit" Click="uxSubmit_Click" 
                 Background="#FF4EBCDF" Height="82" Margin="0,0,-0.333,0" Content="Submit" IsEnabled="False"/>
 

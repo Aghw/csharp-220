@@ -13,3 +13,17 @@ C:\Projects\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
 C:\Projects\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
 C:\Projects\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Projects\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\craftbew\Desktop\foundations\cs220\csharp-220\tree\master\homework1\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\craftbew\Desktop\foundations\cs220\csharp-220\tree\master\homework1\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\craftbew\Desktop\foundations\cs220\csharp-220\tree\master\homework1\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\craftbew\Desktop\foundations\cs220\csharp-220\tree\master\homework1\HelloWorld\obj\Debug\MainWindow.g.cs
+C:\Users\craftbew\Desktop\foundations\cs220\csharp-220\tree\master\homework1\HelloWorld\obj\Debug\App.g.cs
+C:\Users\craftbew\Desktop\foundations\cs220\csharp-220\tree\master\homework1\HelloWorld\obj\Debug\HelloWorld_MarkupCompile.cache
+C:\Users\craftbew\Desktop\foundations\cs220\csharp-220\tree\master\homework1\HelloWorld\obj\Debug\HelloWorld_MarkupCompile.lref
+C:\Users\craftbew\Desktop\foundations\cs220\csharp-220\tree\master\homework1\HelloWorld\obj\Debug\MainWindow.baml
+C:\Users\craftbew\Desktop\foundations\cs220\csharp-220\tree\master\homework1\HelloWorld\obj\Debug\HelloWorld.g.resources
+C:\Users\craftbew\Desktop\foundations\cs220\csharp-220\tree\master\homework1\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\craftbew\Desktop\foundations\cs220\csharp-220\tree\master\homework1\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+C:\Users\craftbew\Desktop\foundations\cs220\csharp-220\tree\master\homework1\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\craftbew\Desktop\foundations\cs220\csharp-220\tree\master\homework1\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\craftbew\Desktop\foundations\cs220\csharp-220\tree\master\homework1\HelloWorld\obj\Debug\HelloWorld.pdb
