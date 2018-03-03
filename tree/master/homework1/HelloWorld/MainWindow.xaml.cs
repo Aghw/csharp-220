@@ -46,26 +46,24 @@ namespace HelloWorld
 
         private void uxPassword_TextChanged(object sender, TextChangedEventArgs e)
         {
-            //uxSubmit.IsEnabled = true;
-            EnableDisableSubmitButton();
+            uxSubmit.IsEnabled = !string.IsNullOrEmpty(uxPassword.Text) && !string.IsNullOrEmpty(uxName.Text);
         }
 
         private void uxName_TextChanged(object sender, TextChangedEventArgs e)
         {
-            //uxSubmit.IsEnabled = true;
-            EnableDisableSubmitButton();
+            uxSubmit.IsEnabled = !string.IsNullOrEmpty(uxPassword.Text) && !string.IsNullOrEmpty(uxName.Text);
         }
 
-        private void EnableDisableSubmitButton()
-        {
-            string password = uxPassword.Text;
-            string name = uxName.Text;
-            uxSubmit.IsEnabled = false;
-
-            if (password.Length != 0 && name.Length != 0)
-            {
-                uxSubmit.IsEnabled = true;
-            }
-        }
+        //private void EnableDisableSubmitButton()
+        //{
+        //    string password = uxPassword.Text;
+        //    string name = uxName.Text;
+        //    uxSubmit.IsEnabled = !string.IsNullOrEmpty(password) && !string.IsNullOrEmpty(name);
+            
+        //    //if (password != string.Empty && name != string.Empty)
+        //    //{
+        //    //    uxSubmit.IsEnabled = true;
+        //    //}
+        //}
     }
 }
