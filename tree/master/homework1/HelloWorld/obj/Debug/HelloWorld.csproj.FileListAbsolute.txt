@@ -27,3 +27,4 @@ C:\Users\craftbew\Desktop\foundations\cs220\csharp-220\tree\master\homework1\Hel
 C:\Users\craftbew\Desktop\foundations\cs220\csharp-220\tree\master\homework1\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
 C:\Users\craftbew\Desktop\foundations\cs220\csharp-220\tree\master\homework1\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Users\craftbew\Desktop\foundations\cs220\csharp-220\tree\master\homework1\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\craftbew\Desktop\foundations\cs220\csharp-220\tree\master\homework1\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
