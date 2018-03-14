@@ -1,0 +1,14 @@
+C:\Projects\Homeworks\Homework4\bin\Debug\Homework4.exe.config
+C:\Projects\Homeworks\Homework4\bin\Debug\Homework4.exe
+C:\Projects\Homeworks\Homework4\bin\Debug\Homework4.pdb
+C:\Projects\Homeworks\Homework4\obj\Debug\MainWindow.g.cs
+C:\Projects\Homeworks\Homework4\obj\Debug\App.g.cs
+C:\Projects\Homeworks\Homework4\obj\Debug\Homework4_MarkupCompile.cache
+C:\Projects\Homeworks\Homework4\obj\Debug\Homework4_MarkupCompile.lref
+C:\Projects\Homeworks\Homework4\obj\Debug\MainWindow.baml
+C:\Projects\Homeworks\Homework4\obj\Debug\Homework4.g.resources
+C:\Projects\Homeworks\Homework4\obj\Debug\Homework4.Properties.Resources.resources
+C:\Projects\Homeworks\Homework4\obj\Debug\Homework4.csproj.GenerateResource.Cache
+C:\Projects\Homeworks\Homework4\obj\Debug\Homework4.csproj.CoreCompileInputs.cache
+C:\Projects\Homeworks\Homework4\obj\Debug\Homework4.exe
+C:\Projects\Homeworks\Homework4\obj\Debug\Homework4.pdb
