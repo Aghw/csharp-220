@@ -10,7 +10,7 @@
         <Grid>
             <StackPanel x:Name="uxMenuAndUIControllers">
                 <Menu Background="YellowGreen">
-                    <MenuItem Header="_File">
+                    <MenuItem Header="_File" Background="Ivory">
                         <MenuItem Header="_New" Click="OnNew_Click">
                             <MenuItem.Icon>
                                 <Image Source="images/new-menu-item.png"/>

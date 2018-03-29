@@ -22,7 +22,7 @@ namespace Homework5
     public partial class MainWindow : Window
     {
         static int counter = 0;
-        static string[,] grid = new string[,] { }; 
+        static string[,] grid = null; 
 
 
         public MainWindow()

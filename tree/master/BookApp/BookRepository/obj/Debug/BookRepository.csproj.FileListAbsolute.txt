@@ -1,0 +1,15 @@
+c:\Projects\BookApp\BookRepository\bin\Debug\BookRepository.dll.config
+c:\Projects\BookApp\BookRepository\bin\Debug\BookRepository.dll
+c:\Projects\BookApp\BookRepository\bin\Debug\BookRepository.pdb
+c:\Projects\BookApp\BookRepository\bin\Debug\BookDB.dll
+c:\Projects\BookApp\BookRepository\bin\Debug\EntityFramework.dll
+c:\Projects\BookApp\BookRepository\bin\Debug\EntityFramework.SqlServer.dll
+c:\Projects\BookApp\BookRepository\bin\Debug\BookDB.pdb
+c:\Projects\BookApp\BookRepository\bin\Debug\BookDB.dll.config
+c:\Projects\BookApp\BookRepository\bin\Debug\EntityFramework.xml
+c:\Projects\BookApp\BookRepository\bin\Debug\EntityFramework.SqlServer.xml
+c:\Projects\BookApp\BookRepository\obj\Debug\BookRepository.csprojResolveAssemblyReference.cache
+c:\Projects\BookApp\BookRepository\obj\Debug\BookRepository.csproj.CoreCompileInputs.cache
+c:\Projects\BookApp\BookRepository\obj\Debug\BookRepository.csproj.CopyComplete
+c:\Projects\BookApp\BookRepository\obj\Debug\BookRepository.dll
+c:\Projects\BookApp\BookRepository\obj\Debug\BookRepository.pdb
